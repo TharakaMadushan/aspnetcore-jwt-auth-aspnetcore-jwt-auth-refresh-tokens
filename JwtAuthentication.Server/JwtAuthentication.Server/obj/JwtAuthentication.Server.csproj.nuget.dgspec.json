@@ -1,0 +1,94 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Angular\\aspnetcore-jwt-auth-aspnetcore-jwt-auth-refresh-tokens\\JwtAuthentication.Server\\JwtAuthentication.Server\\JwtAuthentication.Server.csproj": {}
+  },
+  "projects": {
+    "F:\\Angular\\aspnetcore-jwt-auth-aspnetcore-jwt-auth-refresh-tokens\\JwtAuthentication.Server\\JwtAuthentication.Server\\JwtAuthentication.Server.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Angular\\aspnetcore-jwt-auth-aspnetcore-jwt-auth-refresh-tokens\\JwtAuthentication.Server\\JwtAuthentication.Server\\JwtAuthentication.Server.csproj",
+        "projectName": "JwtAuthentication.Server",
+        "projectPath": "F:\\Angular\\aspnetcore-jwt-auth-aspnetcore-jwt-auth-refresh-tokens\\JwtAuthentication.Server\\JwtAuthentication.Server\\JwtAuthentication.Server.csproj",
+        "packagesPath": "C:\\Users\\Tharaka Madushan\\.nuget\\packages\\",
+        "outputPath": "F:\\Angular\\aspnetcore-jwt-auth-aspnetcore-jwt-auth-refresh-tokens\\JwtAuthentication.Server\\JwtAuthentication.Server\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages",
+          "F:\\Microsoft Visual Studio 2022\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Tharaka Madushan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

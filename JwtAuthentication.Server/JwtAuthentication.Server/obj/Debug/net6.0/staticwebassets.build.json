@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ySE8EFvvEUKOV5pe/sjbUPEA+vxl2NqBWosec233Bwg=",
+  "Source": "JwtAuthentication.Server",
+  "BasePath": "_content/JwtAuthentication.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
